@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - [Microsoft Sentinel with Live Attacks Lab](https://github.com/themondaycup/AzureSentinel)
- - [Active Directory Home Lab!](https://github.com/themondaycup/ActiveDirectoryLab)
+ - [Active Directory Home Lab](https://github.com/themondaycup/ActiveDirectoryLab)
 
 <h2>📝  Certifications</h2>
 
