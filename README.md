@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/themondaycup/LABURL)
- - [Hello World!](https://github.com/themondaycup/LABURL)
+ - [Active Directory Home Lab](https://github.com/themondaycup/ActiveDirectoryLab)
+ - [Hello World!](https://github.com/themondaycup/ActiveDirectoryLab)
 
 <h2>📝  Certifications</h2>
 
