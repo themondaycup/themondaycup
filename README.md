@@ -1,4 +1,9 @@
-<h1>Hi, I'm Christian!</h1>
+<h1>💫 Hi, I'm Christian!</h1>
+
+📚I'm currently studying for the SC-200 certification<br>
+🏃 I enjoy long-distance running
+
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
