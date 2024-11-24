@@ -9,6 +9,7 @@
 
  - [Microsoft Sentinel with Live Attacks Lab](https://github.com/themondaycup/AzureSentinel)
  - [Azure Cloud Detection Lab](https://github.com/themondaycup/AzureCloudDetectionLab)
+ - [Nessus Vulnerability Management](https://github.com/themondaycup/nessus_vulnerability_management)
 
 <h2>📝  Certifications</h2>
 
