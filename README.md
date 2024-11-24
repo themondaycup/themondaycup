@@ -1,6 +1,5 @@
 <h1>💫 Hi, I'm Christian!</h1>
 
-📚I'm currently studying for the SC-200 certification<br>
 🏃 I enjoy long-distance running
 
 
